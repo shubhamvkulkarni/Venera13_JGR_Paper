@@ -1,0 +1,11 @@
+# Below 30 percentile, a posteriori error on the Rr - vRr, 15 columns indicate eta_r= 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, and 2.5.
+nan	0.0320	0.0200	0.1800	nan	0.1510	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	0.0320	nan	0.1840	0.1690	0.1600	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	0.0350	nan	0.1730	0.1730	0.1650	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	0.1890	0.1740	0.1660	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	0.1900	0.1820	0.1750	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	0.1830	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	0.2040	0.1890	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	0.1980	0.1890	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	0.2110	0.1920	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	0.1950	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,11 @@
+# Below 30 percentile, vRr/Rr * 100, 15 columns indicate eta_r= 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, and 2.5.
+nan	nan	24.4444	nan	30.6452	26.0606	25.2308	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	28.4722	29.2537	26.0606	26.7143	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	30.0000	28.2353	26.8571	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	29.0541	28.2609	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	29.3506	28.4722	27.6316	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	29.2308	28.0822	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	28.0000	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	29.5062	27.1429	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	29.7590	27.2152	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	29.5238	26.7901	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
